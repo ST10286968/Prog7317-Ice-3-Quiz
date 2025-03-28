@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223855964642",
+    "project_id": "quizify-ec4c7",
+    "storage_bucket": "quizify-ec4c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223855964642:android:9af114b91c01a99c3d49bb",
+        "android_client_info": {
+          "package_name": "com.beta.quizify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChnC0U45L-6sU9E4oQQ7n7zpqfk3E05q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
